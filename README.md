@@ -6,7 +6,14 @@
 - Netbeans/Eclipse ou qualquer IDE de sua preferência.
 - Executar o comando SQL de criação da base de dados e de suas respectivas tarefas, pois como foi meu primeiro projeto, optei por não utilizar ORM que automatiza essa parte do banco de dados.
 - Baixar as respectivas libs de conexão com banco de dados e do iReport que podem ser facilmente encontrados [aqui](https://mvnrepository.com)
+## Instalação 
+**Execute o seguinte comando na pasta desejada:**
+```
+https://github.com/reness0/Hotel-Java.git
+```
+**Ou então baixe o winrar do arquivo [aqui](https://github.com/reness0/Hotel-Java/archive/master.zip)**
 
+**Por ser meu primeiro projeto, não havia utilizado o maven, então é preciso que você baixe todas as depências manualmente, conforme foi especificado mais acima**
 ## Features 
 O sistema realiza o controle de hóspedes e de quartos num sistema de hotel, realizando pedidos, reservamentos de quartos por parte dos hóspedes. As recepcionistas podem excluir, editar e consultar os hóspedes, assim como os gerentes fazem o mesmo com ela. Todos esses conceitos de entidades eu explico mais abaixo.
 
